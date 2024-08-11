@@ -1,0 +1,5 @@
+# ignorando los archivos que no quiero que tengan seguimiento en git
+
+*.exe
+*.o
+
